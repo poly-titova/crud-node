@@ -9,8 +9,14 @@ _`.gitignore`, `package.json`._
 
 ### Запуск проекта
 
-Запуск сервера на порту 3000
+Запуск сервера на порту 3000 (backend)
 
 ```
 npm run start
+```
+
+Запуск сервера на порту 8080 (frontend)
+
+```
+npm run start-front-server
 ```
